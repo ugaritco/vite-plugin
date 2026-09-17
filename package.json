@@ -7,13 +7,13 @@
     "vite",
     "vite-plugin"
   ],
-  "homepage": "https://github.com/ugarit/vite-plugin",
+  "homepage": "https://github.com/ugaritco/vite-plugin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ugarit/vite-plugin"
+    "url": "https://github.com/ugaritco/vite-plugin"
   },
   "license": "MIT",
-  "author": "Ugarit",
+  "author": "Muath R Abu Ouda <muathrabuouda@hotmail.com>",
   "type": "module",
   "exports": {
     ".": {
